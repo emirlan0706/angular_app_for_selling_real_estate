@@ -24,7 +24,7 @@ button {
   border-radius: 8px;
 }
 
-@media (min-width: 500px) and (max-width: 768px) {
+/* @media (min-width: 500px) and (max-width: 768px) {
   .results {
       grid-template-columns: repeat(2, 1fr);
   }
@@ -37,8 +37,7 @@ button {
   .results {
       grid-template-columns: 1fr;
   }    
-}
-
+} */
 
 /*
 Copyright Google LLC. All Rights Reserved.
